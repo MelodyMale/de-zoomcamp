@@ -18,7 +18,7 @@ with DAG(
     catchup=False,
 ) as dag:
     move_file_task = PythonOperator(
-        task_id="move_file_to_gcs_task",
+        task_id="move_file_to_gcs",
         python_callable=move_file_to_gcs,
         op_kwargs={"bucket_name": BUCKET_NAME},
         dag=dag,
