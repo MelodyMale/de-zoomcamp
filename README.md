@@ -4,7 +4,7 @@ This repo is my [data engineering zoomcamp](https://github.com/DataTalksClub/dat
 - Workflow Orchestration
 - Data Lake (Google Cloud Storage)
 - Data Warehouse (Google BigQuery)
-- Spark (PySpark)
+- Batch Processing (PySpark)
 
 
 ## Here is the workflow diagram
