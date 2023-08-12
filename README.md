@@ -7,7 +7,7 @@ This repo is my [data engineering zoomcamp](https://github.com/DataTalksClub/dat
 - Batch Processing (PySpark)
 
 
-## Here is the workflow diagram
+## Workflow Diagram
 
 ```mermaid
 graph TD;
